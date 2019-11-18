@@ -1,0 +1,8 @@
+decimation.o
+eigendecomposition.o
+decimation_seq.o
+eigendecomposition_seq.o
+selfe_cython.c
+selfe_cython.o
+selfe_cython.so
+test.o
